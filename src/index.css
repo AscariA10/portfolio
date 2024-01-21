@@ -3,22 +3,22 @@
 *::after {
    box-sizing: border-box;
 
-   font-family: "Shantell Sans", sans-serif;
+   font-family: "Fira sans", sans-serif;
 
-   font-size: 16px;
+   font-size: 21px;
    line-height: 1.2;
 }
 
 html {
    -ms-text-size-adjust: 100%;
    -webkit-text-size-adjust: 100%;
-   color: rgb(0, 0, 128);
+   color: rgb(40, 40, 43);
 }
 
 body {
    -moz-osx-font-smoothing: grayscale;
    -webkit-font-smoothing: antialiased;
-   color: rgb(0, 0, 128);
+   /* color: rgb(0, 0, 128); */
    letter-spacing: -0.039em;
 
    scroll-behavior: smooth;
