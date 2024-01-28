@@ -1,5 +1,6 @@
 import { Section } from "../../common/Section/Section";
 import { Container } from "../../common/Container/Container";
+import { Button } from "../../common/Button/Button";
 import { Name, AboutMe } from "./Hero.styled";
 
 export const Hero: React.FC = () => {
@@ -12,6 +13,8 @@ export const Hero: React.FC = () => {
                my full potential as a frontend developer. I continue my study every day, to become a
                better specialist
             </AboutMe>
+            <Button title="projects" colorTheme="light" />
+            <Button title="contacts" colorTheme="dark" />
          </Container>
       </Section>
    );

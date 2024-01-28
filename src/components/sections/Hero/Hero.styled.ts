@@ -14,5 +14,6 @@ export const Name = styled.h1`
 `;
 
 export const AboutMe = styled.p`
+   margin-bottom: 25px;
    text-align: justify;
 `;

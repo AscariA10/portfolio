@@ -9,9 +9,14 @@ export interface IsizeProps extends IChildrenProp {
    height: Iheight;
 }
 
-// export interface Ibutton {
-//    title: string;
-// }
+export interface Ititle {
+   title: string;
+}
+
+export interface Ibutton {
+   title: string;
+   colorTheme: string;
+}
 
 // export interface IsectionTitle {
 //    title: string;
