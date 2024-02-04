@@ -1,6 +1,6 @@
 import { BurgerMenu } from "../../assets/svg-components/BurgerMenu";
 
-import { Container } from "../common/Container/Container";
+import { Container } from "../common/Container/Container.tsx";
 
 import { MainHeader, HeaderContent, Logo } from "./Header.styled";
 
