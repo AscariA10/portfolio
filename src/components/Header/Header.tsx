@@ -1,8 +1,8 @@
-import { BurgerMenu } from "../../assets/svg-components/BurgerMenu";
+import { BurgerMenu } from "../../assets/svg-components/BurgerMenu.tsx";
 
-import { Container } from "../common/Container/Container.tsx";
+import { Container } from "../common/container/Container.tsx";
 
-import { MainHeader, HeaderContent, Logo } from "./Header.styled";
+import { MainHeader, HeaderContent, Logo } from "./Header.styled.ts";
 
 export const Header: React.FC = () => {
    return (

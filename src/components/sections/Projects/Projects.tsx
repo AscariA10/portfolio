@@ -1,8 +1,8 @@
-import { Section } from "../../common/Section/Section";
-import { Container } from "../../common/Container/Container";
-import { SectionTitle } from "../../common/SectionTitle/SectionTitle";
+import { Section } from "../../common/section/Section";
+import { Container } from "../../common/container/Container";
+import { SectionTitle } from "../../common/sectionTitle/SectionTitle";
 
-import { ProjectCard } from "../../ProjectCard/ProjectCard";
+import { ProjectCard } from "../../project-card/ProjectCard";
 
 import projectImage from "../../../assets/images/nastol.com.ua-551376.jpg";
 

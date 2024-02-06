@@ -1,4 +1,4 @@
-import { IconContainer } from "../../components/common/IconContainer/IconContainer";
+import { IconContainer } from "../../components/common/icon-container/IconContainer";
 
 export const BurgerMenu = () => {
    return (

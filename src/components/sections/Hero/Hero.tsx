@@ -1,6 +1,6 @@
-import { Section } from "../../common/Section/Section";
-import { Container } from "../../common/Container/Container";
-import { Button } from "../../common/Button/Button";
+import { Section } from "../../common/section/Section";
+import { Container } from "../../common/container/Container";
+import { Button } from "../../common/button/Button";
 import { Name, AboutMe } from "./Hero.styled";
 
 export const Hero: React.FC = () => {

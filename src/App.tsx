@@ -1,6 +1,6 @@
-import { Header } from "./components/Header/Header";
-import { Hero } from "./components/sections/Hero/Hero";
-import { Projects } from "./components/sections/Projects/Projects";
+import { Header } from "./components/header/Header";
+import { Hero } from "./components/sections/hero/Hero";
+import { Projects } from "./components/sections/projects/Projects";
 
 function App() {
    return (
